@@ -9,16 +9,27 @@ I’m now transitioning into remote SaaS support roles, bringing a customer-firs
 SKILLS
 
 •	Customer Support & Customer Experience
+
 •	Relationship Management
+
 •	Escalation Handling
+
 •	Problem Solving & Conflict Resolution
+
 •	CRM Systems (Salesforce)
+
 •	Communication & Active Listening
+
 •	Account Management
+
 •	Time Management & Multitasking
+
 •	Digital Banking Support
+
 •	Team Collaboration
+
 •	Attention to Detail
+
 •	Remote Communication Tools
 
 EXPERIENCE
@@ -49,10 +60,15 @@ Managing High-Pressure Customer Requests (Busy Periods) During peak periods (for
 TOOLS & PLATFORMS 
 
 CRM: Salesforce 
+
 Ticketing (upskilling): Zendesk 
+
 Live chat (upskilling): Intercom 
-Documentation: Notion 
+
+Documentation: Notion
+
 Team communication: Slack 
+
 Productivity: Microsoft Office (Word, Excel, PowerPoint)
 
 CAREER GOAL
