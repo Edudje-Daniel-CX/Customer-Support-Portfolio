@@ -1,6 +1,8 @@
 PROFESSIONAL SUMMARY 
 Customer Support Specialist with banking operations experience, comfortable supporting customers in fast-paced, high-volume environments and staying calm when issues get complex. I handle 40–70 customer cases a day, including escalations, and I’m consistent about capturing clear, accurate notes and outcomes in Salesforce CRM.
+
 I enjoy breaking problems down, asking the right questions, and guiding customers step-by-step until we get to a solution. I also work closely with internal teams to share context, follow up on pending issues, and keep customers updated on next steps and timelines.
+
 I’m now transitioning into remote SaaS support roles, bringing a customer-first mindset, strong communication, and a structured, process-driven approach to delivering a reliable support experience.
 
 SKILLS
